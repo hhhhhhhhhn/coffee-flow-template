@@ -1,0 +1,4 @@
+Extra files also work!
+
+By the way, run "npm run build" to build, and "npm run flow" or "npm test"
+to check for type problems using flow!

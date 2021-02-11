@@ -1,0 +1,14 @@
+[ignore]
+tmp/
+src/
+
+[include]
+dist/
+
+[libs]
+
+[lints]
+
+[options]
+
+[strict]
